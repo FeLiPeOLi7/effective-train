@@ -8,7 +8,7 @@ import joblib
 from email_reader import extract_email_address, parse_parts, service
 
 pipeline = joblib.load('email_responder_model.pkl')
-sender = 'felpzito999@gmail.com'
+sender = 'sender@gmail.com'
 password = 'yourpassword'
 
 def respondeMensagem(message):
