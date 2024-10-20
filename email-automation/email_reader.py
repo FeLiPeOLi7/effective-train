@@ -24,7 +24,7 @@ from mimetypes import guess_type as guess_mime_type
 
 # Aqui informamos nosso email (o mesmo que fizemos na GMAIL API) para ler/escrever/etc
 SCOPES = ['https://mail.google.com/']
-email = 'felpzito999@gmail.com'
+email = 'sender@gmail.com'
 
 def autentica_gmail():
     creds = None
