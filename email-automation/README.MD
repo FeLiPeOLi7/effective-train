@@ -19,3 +19,5 @@ def respondeMensagem(message):
 
     return predicted_response[0]
 ```
+
+Para testar esse código, basta se autenticar na API do Gmail, utilizar seus dados próprios e rodar o arquivo email_responder.py
