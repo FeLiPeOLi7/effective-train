@@ -1,0 +1,3 @@
+Projeto que busca por meio de notícias prever o sentimento da mídia sobre o bitcoin, atuando como uma espécie de indíce de Fear & Greed.
+
+O projeto utiliza a API da NewsAPI para ter acesso a diversos artigos, assim como utiliza diversas outras bibliotecas para entender a data e a processar, retornando assim o sentimento do momento sobre o bitcoin. Foram utilizados a biblioteca pandas, e a sci-kit-learn.
