@@ -1,0 +1,3 @@
+Projeto de um jogo da cobrinha desenvolvido do zero por mim, e, além disso, o desenvolvimento de um agente capaz de jogar esse jogo da cobrinha, o agente foi feito seguindo o tutorial da freeCodeCamp, e utilizou diversas bibliotecas como pygame, PyTorch, matplotlib, numpy e etc.
+
+Caso queira jogar, basta clonar o repositório, e escolher se quer jogar o game manualmente (snake_game.py) ou ver o agente jogando (agent.py)
